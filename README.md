@@ -16,5 +16,3 @@ To run the examples locally, ensure you have:
 - Visual Studio installed
 - Selenium installed
 
-Install Selenium using pip:
-pip install selenium
